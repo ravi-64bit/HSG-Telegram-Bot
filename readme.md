@@ -16,3 +16,7 @@ This is a Telegram bot that helps users find study-abroad-related content, searc
 | `/search <query>`| Searches for blogs related to the query and provides a link.|
 | `/subscribe <email>` | Subscribes the user to the newsletter.                |
 | `/stop`          | Stops notifications and subscription.                     |
+
+
+made by Ravichandra K for [HelloStudy Global](hellostudy.org)
+### visit www.hellostudy.org
